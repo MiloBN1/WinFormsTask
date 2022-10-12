@@ -1,0 +1,14 @@
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\bin\Debug\Restraunt2.exe.config
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\bin\Debug\Restraunt2.exe
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\bin\Debug\Restraunt2.pdb
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\obj\Debug\Restraunt2.csproj.AssemblyReference.cache
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\obj\Debug\Restraunt2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\obj\Debug\Restraunt2.Form1.resources
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\obj\Debug\Restraunt2.Properties.Resources.resources
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\obj\Debug\Restraunt2.csproj.GenerateResource.cache
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\obj\Debug\Restraunt2.csproj.CoreCompileInputs.cache
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\obj\Debug\Restraunt2.exe
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\obj\Debug\Restraunt2.pdb
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\obj\Debug\Restraunt2.Index.resources
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\obj\Debug\Restraunt2.Menu.resources
+C:\Users\Комп\source\repos\Restraunt2\Restraunt2\obj\Debug\Restraunt2.Rate.resources
